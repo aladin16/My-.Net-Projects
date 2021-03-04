@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{2E1289C2-2C18-4835-BE51-0D787694BA2C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MakingHotBreakfast/Program.cs">
+﻿<Properties StartupConfiguration="{C3114DAE-4EB1-4610-89EF-2ABEA9AD81D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiThreadingExample/Program.cs">
     <Files>
-      <File FileName="MakingHotBreakfast/Program.cs" Line="23" Column="41" />
+      <File FileName="MultiThreadingExample/Program.cs" Line="27" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MakingHotBreakfast" expanded="True">
-            <Node name="MakingHotBreakfast" expanded="True">
+          <Node name="MultiThreadingExample" expanded="True">
+            <Node name="MultiThreadingExample" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +16,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MultiThreadingExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MakingHotBreakfast PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
