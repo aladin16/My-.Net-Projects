@@ -1,0 +1,15 @@
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/bin/Debug/net5.0/BankAccount.deps.json
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/bin/Debug/net5.0/BankAccount.runtimeconfig.json
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/bin/Debug/net5.0/BankAccount.runtimeconfig.dev.json
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/bin/Debug/net5.0/BankAccount.dll
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/bin/Debug/net5.0/ref/BankAccount.dll
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/bin/Debug/net5.0/BankAccount.pdb
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.csprojAssemblyReference.cache
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.AssemblyInfoInputs.cache
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.AssemblyInfo.cs
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.dll
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/ref/BankAccount.dll
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.pdb
+/Users/AladinRiabi/Desktop/C#/BankAccount/BankAccount/obj/Debug/net5.0/BankAccount.genruntimeconfig.cache

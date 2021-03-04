@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{C3114DAE-4EB1-4610-89EF-2ABEA9AD81D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MultiThreadingExample/Program.cs">
+﻿<Properties StartupConfiguration="{FB60E2F3-2500-4E80-9687-DBAABC3F994F}|Default">
+  <MonoDevelop.Ide.ItemProperties.BankAccount FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankAccount/Program.cs">
     <Files>
-      <File FileName="MultiThreadingExample/Program.cs" Line="31" Column="1" />
+      <File FileName="BankAccount/Program.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MultiThreadingExample" expanded="True">
-            <Node name="MultiThreadingExample" expanded="True">
+          <Node name="BankAccount" expanded="True">
+            <Node name="BankAccount" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +17,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MultiThreadingExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
