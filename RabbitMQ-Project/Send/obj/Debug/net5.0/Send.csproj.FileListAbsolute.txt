@@ -1,0 +1,17 @@
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/Send.deps.json
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/Send.runtimeconfig.json
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/Send.runtimeconfig.dev.json
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/Send.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/ref/Send.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/Send.pdb
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.csprojAssemblyReference.cache
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.AssemblyInfoInputs.cache
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.AssemblyInfo.cs
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.csproj.CoreCompileInputs.cache
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.csproj.CopyComplete
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/ref/Send.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.pdb
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Send/obj/Debug/net5.0/Send.genruntimeconfig.cache

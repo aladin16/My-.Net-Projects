@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{FB60E2F3-2500-4E80-9687-DBAABC3F994F}|Default">
-  <MonoDevelop.Ide.ItemProperties.BankAccount FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BankAccount PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BankAccount/Program.cs">
     <Files>
-      <File FileName="BankAccount/Program.cs" Line="13" Column="1" />
+      <File FileName="../RabbitMQ-Project/Receive/Receive.cs" Line="1" Column="1" />
+      <File FileName="BankAccount/Program.cs" Line="53" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BankAccount" expanded="True">
             <Node name="BankAccount" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Dependencies" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

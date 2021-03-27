@@ -1,0 +1,17 @@
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/Receive.deps.json
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/Receive.runtimeconfig.json
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/Receive.runtimeconfig.dev.json
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/Receive.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/ref/Receive.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/Receive.pdb
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.csprojAssemblyReference.cache
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.AssemblyInfoInputs.cache
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.AssemblyInfo.cs
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.csproj.CoreCompileInputs.cache
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.csproj.CopyComplete
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/ref/Receive.dll
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.pdb
+/Users/AladinRiabi/Desktop/C#/RabbitMQ-Project/Receive/obj/Debug/net5.0/Receive.genruntimeconfig.cache
